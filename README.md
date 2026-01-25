@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/CyberAnge673">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub+page;I+am+a+Network+Management+Graduate;Web+Dev;Cyber+Security+Enthusiast;Network+Security;Crypto+Lover+%3C3">
   </a>
 </p>
@@ -20,13 +20,13 @@
 
 
 
-💡 &nbsp;I love exploring new technologies and applying them to my environment.\
+💡 &nbsp;I love exploring new technologies and applying them to my environment.
 
 
-🎓 &nbsp;Graduate in Network Management and IT Security from Tecnológico Comfenalco.\
+🎓 &nbsp;Graduate in Network Management and IT Security from Tecnológico Comfenalco.
 
 
-🌱 &nbsp;My main fields are convergent networks and cybersecurity.\
+🌱 &nbsp;My main fields are convergent networks and cybersecurity.
 
 
 ✍️ &nbsp;I enjoy reading and working out.
