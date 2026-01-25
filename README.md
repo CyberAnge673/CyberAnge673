@@ -21,10 +21,15 @@
 
 
 💡 &nbsp;I love exploring new technologies and applying them to my environment.\
-🎓 &nbsp;Graduate in Network Management and IT Security from Tecnológico Comfenalco.\
-🌱 &nbsp;My main fields are convergent networks and cybersecurity.\
-✍️ &nbsp;I enjoy reading and working out.
 
+
+🎓 &nbsp;Graduate in Network Management and IT Security from Tecnológico Comfenalco.\
+
+
+🌱 &nbsp;My main fields are convergent networks and cybersecurity.\
+
+
+✍️ &nbsp;I enjoy reading and working out.
 
 
 
