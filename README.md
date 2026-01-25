@@ -1,7 +1,12 @@
+
 <h3 align="center">
   Welcome to my profile 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
+
+
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO">
@@ -11,10 +16,16 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+
+
+
+
 💡 &nbsp;I love exploring new technologies and applying them to my environment.\
 🎓 &nbsp;Graduate in Network Management and IT Security from Tecnológico Comfenalco.\
 🌱 &nbsp;My main fields are convergent networks and cybersecurity.\
 ✍️ &nbsp;I enjoy reading and working out.
+
+
 
 
 
